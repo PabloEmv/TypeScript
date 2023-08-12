@@ -1,0 +1,13 @@
+{
+  "lint": {
+    "files": {
+      "include": [],
+      "exclude": ["src/testdata/"]
+    },
+    "rules": {
+      "tags": ["recommended"],
+      "include": [],
+      "exclude": ["no-unused-vars", "no-inferrable-types", "prefer-const"]
+    }
+  }
+}
